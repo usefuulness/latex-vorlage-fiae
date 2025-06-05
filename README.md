@@ -19,7 +19,8 @@ Darüber hinaus müssen dafür folgende Programme installiert sein:
 ## Docker
 
 1. Stelle sicher, dass Docker läuft.
-2. Öffne die `./kompiliere_mit_Docker.ps1` in der PowerShell.
+2. Unter Windows öffne die `./kompiliere_mit_Docker.ps1` in der PowerShell.
+3. Unter Linux starte `./kompiliere_mit_Docker.sh` im Terminal.
 
 ## Lokale MiKTeX-Installation
 
